@@ -1,0 +1,6 @@
+{
+  "name": "Nani Masala Co.",
+  "description": "Authentic stone-ground Indian spices, pure single-origin herbs, and grandma's heirloom spice blends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
